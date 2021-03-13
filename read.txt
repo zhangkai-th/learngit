@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 helodaadad
 b
+=======
+hadadadasdelo
+>>>>>>> newb
